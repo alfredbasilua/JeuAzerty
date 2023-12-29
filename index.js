@@ -1,2 +1,2 @@
-let monNOm= document.getElementById("Nom");
-console.log(monNOm);
+let zoneProposition= document.getElementById("zoneProposition");
+console.log(zoneProposition.clientHeight);
